@@ -1,11 +1,11 @@
 # neural-network-projects
 
-This is my collection of Neural Networks mini-projects as I'm learning NN, DNN, CNN and RNN. I hope you will find them useful as you embark on the same journey.
+Bienvenue dans ma collection de mini-projets sur les Réseaux de Neurones Artificiels, que j’ai réalisés pour approfondir mes compétences en Deep Learning, en particulier avec Keras et TensorFlow.
 
-Recommended order for exploring these projects is as follows:
+Ce dépôt rassemble des exemples concrets de mise en œuvre de différents types de réseaux : Perceptron multicouche (DNN), Réseaux de Neurones Convolutifs (CNN) et Réseaux de Neurones Récurrents (RNN). Chaque projet m’a permis de renforcer ma compréhension des techniques de l'intelligence artificielle et du traitement de données complexes.
 
+### Contenur du projet
 ### Deep Neural Networks
-
 - Life-Cycle for Neural Network Models in Keras
 - My first Neural Network with Keras
 - Multi-Class classification with Keras
@@ -22,9 +22,20 @@ Recommended order for exploring these projects is as follows:
 - Predict Sentiment From Movie Reviews
 - Text Classification with Keras and GloVe Embedding
 
-### Recurrent Neural Networks
+### Pourquoi ce projet? 
+Je me prépare à une carrière en Intelligence Artificielle et j'ai créé ce dépôt pour :
+  - Mettre en pratique les concepts théoriques de l'IA
+  - Expérimenter des architectures de réseaux variées
+  - Partager mes travaux et aider d’autres étudiants ou passionnés
+  
+### Technologies utilisées
+Python
+TensorFlow / Keras
+Jupyter Notebook
+Numpy, Pandas, Matplotlib
 
-- Time Series Prediction with LSTM Recurrent Neural Networks with Keras
-- Sequence Classification with LSTM Recurrent Neural Networks with Keras
-- Understanding Stateful LSTM Recurrent Neural Networks with Keras
-- Text Generation With LSTM Recurrent Neural Networks with Keras
+### Objectifs futurs
+- Expérimenter avec des Transformers et le NLP avancé
+- Optimiser les modèles pour la production
+- Ajouter des projets de Computer Vision plus complexes
+
